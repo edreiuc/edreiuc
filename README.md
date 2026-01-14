@@ -1,20 +1,23 @@
+<div align="center">
+
 # ¡Hola! 👋 Soy Samuel Edrei Uc Angulo
 
-**Desarrollador Fullstack Semi Senior** | _Especializado en Arquitecturas Modernas & Soluciones Escalables_
+**Desarrollador Fullstack Semi Senior**.
+\
+_Especializado en Arquitecturas Modernas & Soluciones Escalables_
 
----
+</div>
 
 ## 🚀 Sobre mí
 
 Desarrollador Fullstack con **+9 años de experiencia** creando soluciones web escalables y de alto rendimiento. Me especializo en arquitecturas modernas, optimización de procesos y en el desarrollo de interfaces intuitivas que transforman ideas en realidad.
 
-| Atributo           | Detalle                                |
-| ------------------ | -------------------------------------- |
-| 📊 **Experiencia** | Más de 9 años en el sector tecnológico |
-| 🌍 **Idiomas**     | Dominio de Inglés y Francés            |
-| 📍 **Ubicación**   | Mérida, Yucatán, México                |
+## 📋 Perfil
 
----
+**📊 Experiencia:** +9 años en desarrollo web  
+**🌍 Idiomas:** Inglés, Francés  
+**📍 Ubicación:** Mérida, Yucatán, México
+
 
 ## 💻 Tech Stack
 
@@ -48,14 +51,12 @@ Desarrollador Fullstack con **+9 años de experiencia** creando soluciones web e
 ---
 
 ## 📫 Contacto
-
 Siempre estoy abierto a nuevas oportunidades y colaboraciones:
 
-| Medio           | Información                                                 |
-| --------------- | ----------------------------------------------------------- |
-| 💼 **LinkedIn** | [samuel-edreiuc](https://linkedin.com/in/samuel-edreiuc)    |
-| 📧 **Email**    | [ucangulosamuel@gmail.com](mailto:ucangulosamuel@gmail.com) |
-| 📱 **Teléfono** | +52 999 279 9539                                            |
+- **LinkedIn**: [samuel-edreiuc](https://linkedin.com/in/samuel-edreiuc)
+- **Email**: [ucangulosamuel@gmail.com](mailto:ucangulosamuel@gmail.com)
+- **Teléfono**: [+52 999 279 9539](tel:+52-999-279-9539)
+
 
 ---
 
