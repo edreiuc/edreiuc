@@ -8,12 +8,7 @@ _Especializado en Arquitecturas Modernas & Soluciones Escalables_
 
 </div>
 
-## 🚀 Sobre mí
-
-Desarrollador Fullstack con **+9 años de experiencia** creando soluciones web escalables y de alto rendimiento. Me especializo en arquitecturas modernas, optimización de procesos y en el desarrollo de interfaces intuitivas que transforman ideas en realidad.
-
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/edreiuc?cardType=octocat&theme=react&fontFamily=Antic&preferLogin=false)](https://git.io/awesome-stats-card)
-
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/edreiuc?cardType=octocat&theme=react&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
 
 ## 💻 Tech Stack
 
