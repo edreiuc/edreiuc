@@ -12,11 +12,7 @@ _Especializado en Arquitecturas Modernas & Soluciones Escalables_
 
 Desarrollador Fullstack con **+9 años de experiencia** creando soluciones web escalables y de alto rendimiento. Me especializo en arquitecturas modernas, optimización de procesos y en el desarrollo de interfaces intuitivas que transforman ideas en realidad.
 
-## 📋 Perfil
-
-**📊 Experiencia:** +9 años en desarrollo web  
-**🌍 Idiomas:** Inglés, Francés  
-**📍 Ubicación:** Mérida, Yucatán, México
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/edreiuc?cardType=octocat&theme=react&fontFamily=Antic&preferLogin=false)](https://git.io/awesome-stats-card)
 
 
 ## 💻 Tech Stack
