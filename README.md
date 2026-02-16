@@ -10,8 +10,6 @@ _Especializado en Arquitecturas Modernas & Soluciones Escalables_
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/edreiuc?cardType=octocat&theme=react&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/edreiuc/github-readme-stats)
-
 ## 💻 Tech Stack
 
 ### Frontend
