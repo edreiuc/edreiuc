@@ -13,9 +13,8 @@ _Especializado en Arquitecturas Modernas & Soluciones Escalables_
 [![My Skills](https://skillicons.dev/icons?i=php,js,ts,nodejs,express,rust,laravel,symfony,mongodb,mysql,graphql,html,css,vue,astro,react,angular,bootstrap,tailwind,sass,docker,figma,github,vite,gcp)](https://skillicons.dev)
 
 
-### Bases de Datos & Patrones
+###  Patrones de desarrollo de software
 
-- **Bases de Datos**: MongoDB, SQL (MySQL, PostgreSQL)
 - **Patrones de Diseño**: MVC, Factory, Singleton, Chain of Responsibility, Arquitectura por Capas
 
 ---
