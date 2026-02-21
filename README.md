@@ -8,8 +8,6 @@ _Especializado en Arquitecturas Modernas & Soluciones Escalables_
 
 </div>
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/edreiuc?cardType=octocat&theme=react&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
-
 ## 💻 Tech Stack
 
 [![My Skills](https://skillicons.dev/icons?i=php,js,ts,nodejs,express,rust,laravel,symfony,mongodb,mysql,graphql,html,css,vue,astro,react,angular,bootstrap,tailwind,sass,docker,figma,github,vite,gcp)](https://skillicons.dev)
