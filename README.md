@@ -10,7 +10,7 @@ _Especializado en Arquitecturas Modernas & Soluciones Escalables_
 
 ## 💻 Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=php,js,ts,nodejs,express,rust,laravel,symfony,mongodb,mysql,graphql,html,css,vue,astro,react,angular,bootstrap,tailwind,sass,docker,figma,github,vite,gcp)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=php,js,ts,nodejs,express,rust,laravel,symfony,mongodb,mysql,graphql,html,css,vue,astro,react,angular,bootstrap,tailwind,sass,docker,figma,github,vite,gcp)
 
 
 ###  Patrones de desarrollo de software
